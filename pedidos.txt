@@ -1,0 +1,3 @@
+Módulo de Pedidos
+
+Este módulo permite registrar, consultar y gestionar los pedidos realizados por los clientes.
