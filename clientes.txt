@@ -1,0 +1,3 @@
+Módulo de Clientes
+
+Este módulo permite registrar, consultar y actualizar la información de los clientes.
