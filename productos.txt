@@ -1,0 +1,3 @@
+Módulo de Productos
+
+Este módulo permite registrar productos, consultar precios y controlar el stock disponible.
