@@ -1,3 +1,9 @@
 Módulo de Productos
 
 Este módulo permite registrar productos, consultar precios y controlar el stock disponible.
+
+Control de stock:
+
+- El stock no puede ser negativo.
+- Cada venta debe descontar unidades disponibles.
+- El sistema debe alertar cuando el stock sea igual o menor a 5 unidades.
