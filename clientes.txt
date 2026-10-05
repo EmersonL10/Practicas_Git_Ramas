@@ -1,3 +1,9 @@
 Módulo de Clientes
 
 Este módulo permite registrar, consultar y actualizar la información de los clientes.
+
+Validación de clientes:
+
+- El nombre del cliente es obligatorio.
+- El correo debe tener un formato válido.
+- El número de documento no puede estar vacío.
